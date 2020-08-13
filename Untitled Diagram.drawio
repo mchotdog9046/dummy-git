@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T09:51:05.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="0dwBmA_94L6TFm7dcTYY" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T09:52:32.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="WFz3Hs6j1OAhSklvO3Wn" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="983" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="使用者登入頁面" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1500" y="2110" width="600" height="191" as="geometry">
+          <mxGeometry x="1500" y="2110" width="470" height="191" as="geometry">
             <mxRectangle x="1500" y="2110" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="04z2D7Yg83SwF_cILFOy-8" value="Email--輸入框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="30" width="600" height="20" as="geometry" />
+          <mxGeometry y="30" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="04z2D7Yg83SwF_cILFOy-9" value="password--輸入框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="50" width="600" height="20" as="geometry" />
+          <mxGeometry y="50" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="04z2D7Yg83SwF_cILFOy-10" value="忘記密碼--連結視窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="70" width="600" height="20" as="geometry" />
+          <mxGeometry y="70" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="04z2D7Yg83SwF_cILFOy-12" value="Log in--連結視窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="90" width="600" height="20" as="geometry" />
+          <mxGeometry y="90" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="04z2D7Yg83SwF_cILFOy-30" value="" style="group" vertex="1" connectable="0" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="110" width="600" height="81" as="geometry" />
+          <mxGeometry y="110" width="470" height="81" as="geometry" />
         </mxCell>
         <mxCell id="04z2D7Yg83SwF_cILFOy-29" value="註冊--連結視窗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="04z2D7Yg83SwF_cILFOy-30">
-          <mxGeometry x="430" width="170" height="30" as="geometry" />
+          <mxGeometry x="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="04z2D7Yg83SwF_cILFOy-26" value="" style="group" vertex="1" connectable="0" parent="04z2D7Yg83SwF_cILFOy-30">
           <mxGeometry width="270" height="81" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="04z2D7Yg83SwF_cILFOy-28" value="訪客登入--連結視窗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="04z2D7Yg83SwF_cILFOy-30">
-          <mxGeometry x="270" width="160" height="30" as="geometry" />
+          <mxGeometry x="270" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
